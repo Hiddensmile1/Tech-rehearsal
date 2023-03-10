@@ -1,0 +1,36 @@
+.nav-links a {
+    color: #fff;
+}
+.nav-item {
+    margin: 20px;
+}
+.bkg-img {
+    background-image: url('../rehearsal/office.jpg');
+    background-position: center;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-color: white;
+    padding: 140px 0 100px;
+}
+.second-section p {
+    color:rgb(0, 5, 8);
+}
+.section {
+    margin: 100px 0px;
+}
+div h2 {
+    color:rgb(2, 112, 2);
+}
+div h3 {
+    color:rgba(0, 0, 0, 0.822);
+}
+.btn-outline-secondary {
+    border-color: orangered !important;
+    background-color: orangered !important;
+    color: white;
+}
+.btn-secondary {
+    border-color: orangered !important;
+    background-color: orangered !important;
+    color: white;
+}
