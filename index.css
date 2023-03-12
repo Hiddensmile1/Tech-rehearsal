@@ -5,7 +5,7 @@
     margin: 20px;
 }
 .bkg-img {
-    background-image: url('../rehearsal/office.jpg');
+    background-image: url('office.jpg');
     background-position: center;
     background-size:cover;
     background-repeat: no-repeat;
